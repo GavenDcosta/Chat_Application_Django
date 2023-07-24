@@ -1,6 +1,8 @@
 # Chat_Application_Django.
 
 Chat Application using Django.
+
+
 ![Screenshot (1699)](https://github.com/GavenDcosta/Chat_Application_Django/assets/112816730/d4eb0209-913c-4c25-81f2-10f3c6035860)
 
 ![Screenshot (1700)](https://github.com/GavenDcosta/Chat_Application_Django/assets/112816730/57e4ce47-46b0-416a-a3d0-8657601b8a7d)
